@@ -1,0 +1,6 @@
+These files and everything else pertaining to the Bytes Turing Machine Expander PCBs (not the panel) is licensed under a Creative Commons Attribution share-alike License 
+( https://creativecommons.org/licenses/by-sa/3.0/ ) .  The gist of it is that if you use the files that I have created in any of your work (including this documentation) you must cite me as a source and also share your work under the same license.  There are no restrictions to you using these files for your own commercial or personal purposes as long as you follow the rules outlined in the license.
+
+Copyleft Eli Pechman 2014
+
+www.circuitshaman.com
